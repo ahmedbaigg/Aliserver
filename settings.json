@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "alwaysOnlineBOt",
-    "password": "",
+    "password": "chaosphagesmp.play.hosting",
     "type": "offline"
   },
   "server": {
-    "ip": "stoke.play.hosting",
+    "ip": "",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
